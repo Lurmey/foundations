@@ -3,7 +3,7 @@
   <identifier>Foundations</identifier>
   <version>0.4.2</version>
   <suggests>
-    <li>FloorsAreLight</li>
+    <li>2135411568</li>
   </suggests>
   <manifestUri>https://raw.githubusercontent.com/Lurmey/foundations/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/Lurmey/foundations/releases/tag/0.4.2</downloadUri>
