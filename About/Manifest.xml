@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Manifest>
+  <identifier>Foundations</identifier>
+  <version>0.4.2</version>
+  <dependencies>
+    <li>Harmony</li>
+  </dependencies>
+  <loadAfter>
+    <li>Harmony</li>
+    <li>SimpleConcrete</li>
+    <li>malkav73.concrete</li>
+    <li>RFConcrete</li>
+    <li>ExpandedWoodworking</li>
+    <li>AlphaBiomes</li>
+  </loadAfter>
+  <manifestUri></manifestUri>
+  <downloadUri></downloadUri>
+</Manifest>
