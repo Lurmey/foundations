@@ -17,6 +17,6 @@
     <li>2135411568</li>
   </suggests>
   <showCrossPromotions>true</showCrossPromotions>
-  <manifestUri></manifestUri>
+  <manifestUri>https://github.com/Lurmey/foundations/blob/master/About/Manifest.xml</manifestUri>
   <downloadUri></downloadUri>
 </Manifest>
