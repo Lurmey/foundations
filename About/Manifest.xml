@@ -13,6 +13,10 @@
     <li>ExpandedWoodworking</li>
     <li>AlphaBiomes</li>
   </loadAfter>
+  <suggests>
+    <li>2135411568</li>
+  </suggests>
+  <showCrossPromotions>true</showCrossPromotions>
   <manifestUri></manifestUri>
   <downloadUri></downloadUri>
 </Manifest>
