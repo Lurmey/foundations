@@ -2,21 +2,9 @@
 <Manifest>
   <identifier>Foundations</identifier>
   <version>0.4.2</version>
-  <dependencies>
-    <li>Harmony</li>
-  </dependencies>
-  <loadAfter>
-    <li>Harmony</li>
-    <li>SimpleConcrete</li>
-    <li>malkav73.concrete</li>
-    <li>RFConcrete</li>
-    <li>ExpandedWoodworking</li>
-    <li>AlphaBiomes</li>
-  </loadAfter>
   <suggests>
-    <li>2135411568</li>
+    <li>FloorsAreLight</li>
   </suggests>
-  <showCrossPromotions>true</showCrossPromotions>
   <manifestUri>https://raw.githubusercontent.com/Lurmey/foundations/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/Lurmey/foundations/releases/tag/0.4.2</downloadUri>
 </Manifest>
